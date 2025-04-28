@@ -39,8 +39,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Buddy's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CreatorPithadiya&show_icons=true&theme=radical" alt="Buddy's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorPithadiya&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 🐍 Contribution Snake!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/CreatorPithadiya/CreatorPithadiya/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 ---
@@ -56,8 +56,7 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:parthiv.pithadiya@gmail.com)
 
 ---
 
