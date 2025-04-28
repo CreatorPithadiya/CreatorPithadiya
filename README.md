@@ -45,14 +45,6 @@
 
 ---
 
-## 🐍 Contribution Snake!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CreatorPithadiya/CreatorPithadiya/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
