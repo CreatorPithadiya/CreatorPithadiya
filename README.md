@@ -1,4 +1,4 @@
-# Hi there, I'm Buddy 👋
+# Hi there, I'm Parthiv 👋
 *A Full Stack Developer crafting digital experiences that feel like magic.*
 
 ---
